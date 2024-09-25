@@ -1,1 +1,8 @@
-
+//terrain features
+  {
+    "name": "frozen",
+    "type": "TerrainFeature",
+    "movementCost": 2,
+    "RGB": [223,233,241],
+    "uniques": []
+  }
